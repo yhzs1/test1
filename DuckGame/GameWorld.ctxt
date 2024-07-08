@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameWorld()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameWorld.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ addLive_1()
+comment2.params=
+comment2.target=void\ addLive_2()
+comment3.params=
+comment3.target=void\ gameOver()
+comment4.params=
+comment4.target=void\ stop()
+comment5.params=
+comment5.target=void\ stopped()
+numComments=6
